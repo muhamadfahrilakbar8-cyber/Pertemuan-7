@@ -11,10 +11,12 @@ Praktikum 3
 
 3. Latihan 3
 	Program dimulai dengan membuat variable Bernama saldo dengan nilai 1000000. Lalu, program akan mencetak "Saldo saat ini: Rp" diikuti dengan nilai dari variable saldo. Kemudian, program menjalankan perulangan while True dan akan menampilkan pilihan menu "1. Tarik uang" dan "2. Keluar". Selanjutnya, program akan meminta user untuk memasukan pilihan menu dan menyimpannya di variable pilih. Program akan memeriksa apakah nilai dari variable pilih sama dengan '1'. Jika kondisi benar, maka program akan meminta user untuk "Memasukan jumlah penarikan". Nilai akan diubah menjadi integer dan disimpan di variable penarikan. Program kemudian akan menampilkan pesan "Penarikan berhasil!". Setelah itu, program menghitung sisa saldo dengan mengurangi saldo dengan penarikan dan disimpan di variable baru sisa_saldo. Program lalu akan menampilkan sisa saldo. Jika kondisi pilih == '1' tidak benar(user memilih nomor 2), maka program akan menjalankan perintah else. Program akan menampilkan pesan "Terima kasih telah menggunakan ATM!" dan menghenitikan perulangan while dengan perintah break. Setelah perulangan while berhenti, program selesai.
+
 (hasil latihan 1 per7 <img width="975" height="244" alt="image" src="https://github.com/user-attachments/assets/5ea360dd-3f46-491e-a976-9907d51026fc" />
 
 hasil latihan 2 per 7
 <img width="551" height="152" alt="image" src="https://github.com/user-attachments/assets/28e6cc2e-9ae8-484f-a924-e31dc8ccdaa0" />
+
 hasil latihan 3 per 7
 
 <img width="633" height="166" alt="image" src="https://github.com/user-attachments/assets/63801957-64f2-4fe6-a363-f799831b825d" />
